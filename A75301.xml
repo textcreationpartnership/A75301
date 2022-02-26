@@ -1,0 +1,368 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An amorous dialogue between Iohn and his mistris Being a compleat and true relation of some merry passages between the mistris and her apprentice, who pleas'd her so well that she rewarded him with fifty broad pieces for his pains. Here by this dialogue you may discern, while old cats nible cheese the young ones learn. To the tune of, Packingtons pound, or, what should a young woman &amp;c. or, Captain digby.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75301</idno>
+            <idno type="STC">Wing A3020</idno>
+            <idno type="STC">ESTC R229950</idno>
+            <idno type="EEBO-CITATION">99895871</idno>
+            <idno type="PROQUEST">99895871</idno>
+            <idno type="VID">153399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153399)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2361:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An amorous dialogue between Iohn and his mistris Being a compleat and true relation of some merry passages between the mistris and her apprentice, who pleas'd her so well that she rewarded him with fifty broad pieces for his pains. Here by this dialogue you may discern, while old cats nible cheese the young ones learn. To the tune of, Packingtons pound, or, what should a young woman &amp;c. or, Captain digby.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P[hilip]. Brooksby, at the Golden-ball in Westsmithfield, neer the Hospital-gate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Come John sit you down. I have somewhat to say,"</note>
+                  <note>Place, date of publication and publisher's name from Wing CD-ROM-1996.</note>
+                  <note>Wing CD-ROM, 1996 gives a range of dates, 1670-1696.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:153399:1"/>
+            <!-- PDF PAGE 9 -->
+            <head>An Amorous Dialogue between Iohn and his Miſtris.</head>
+            <argument>
+               <p>Being a compleat and true Relation of ſome merry paſſages between the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſtris and her Appren<g ref="char:EOLhyphen"/>tice, who pleas'd her ſo well that ſhe rewarded him with fifty broad pieces for his pains.</p>
+               <lg>
+                  <l>Here by this Dialogue you may diſcern,</l>
+                  <l>While Old Cats nible Cheeſe the young ones learn.</l>
+               </lg>
+            </argument>
+            <opener>To the Tune of <hi>Packingtons pound.</hi> or, <hi>what ſhould a young woman &amp;c.</hi> or, <hi>Captain digby.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>COme <hi>John</hi> ſit you down. I have ſomewhat to ſay,</l>
+                  <l>In mind I have kept it this many a day;</l>
+                  <l>Your Maſter you know is a Fool and a Sot,</l>
+                  <l>And minds nothing elſe but the Pipe and the pot:</l>
+                  <l>Till twelve or till one he will never come home,</l>
+                  <l>And then he's ſo drunk that he lies like a Mome:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>ſuch uſage as this would make any one mad,</hi>
+                     </l>
+                     <l>
+                        <hi>but a woman will have it if 'tis to be had.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Tis true forſooth miſtris, the caſe is but hard,</l>
+                  <l>That a woman ſhould be of her pleaſure debard:</l>
+                  <l>But 'tis the ſad fate of a thouſand beſide,</l>
+                  <l>Or elſe the whole City is fouly bely'd:</l>
+                  <l>There is not a man among twenty that thrives,</l>
+                  <l>Nor ten in fifteen that do lye with their wives:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>yet ſtill you had better be merry then ſad,</hi>
+                     </l>
+                     <l>
+                        <hi>and take it where ever it is to be had.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But <hi>John,</hi> 'tis a difficult matter to find,</l>
+                  <l>A man that is truſty and conſtantly kind:</l>
+                  <l>An inns-of-court gallant he cringes and bows</l>
+                  <l>He's preſently known by his Oaths and his Vows:</l>
+                  <l>And though both his cloaths and his ſpeeches be gay,</l>
+                  <l>Yet he loves you but onely a night and away:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>ſuch uſage as this would make any one mad,</hi>
+                     </l>
+                     <l>
+                        <hi>yet a woman will have it, if 'tis to be had.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>What think you of one that belongs to the Court?</l>
+                  <l>They ſay they are youthful, and given to ſport:</l>
+                  <l>He'l preſent you with bracelets, and jewels, &amp; rings</l>
+                  <l>With ſtones that are precious, &amp; twenty fine things:</l>
+                  <l>Or if you are not for the Court nor the town,</l>
+                  <l>What think you forſooth of a man with a gown?</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>You muſt have a Gallant, a good or a bad,</hi>
+                     </l>
+                     <l>
+                        <hi>and take it where ever it is to be had,</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part,</head>
+               <opener>to the ſame tune.</opener>
+               <lg>
+                  <l>NO <hi>John,</hi> I confeſs that not any of theſe</l>
+                  <l>Had ever the power my fancy to pleaſe;</l>
+                  <l>I like no ſuch blades for a trick that I know,</l>
+                  <l>For as ſoon as they<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve trod, they are given to crow;</l>
+                  <l>Plain dealing is beſt, and I like a man well,</l>
+                  <l>That when he his kiſs'd will be hang'd e're he'l tell:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>My meaning is honeſt, and thou art the Lad,</hi>
+                     </l>
+                     <l>
+                        <hi>then give it and take it while 'tis to be had.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Alas! my dear miſtris, it never can be,</l>
+                  <l>That you can affect ſuch a fellow as me:</l>
+                  <l>Yet heaven forbid ſince I am but your man,</l>
+                  <l>I ſhould ever refuſe to do all that I can:</l>
+                  <l>but then if my maſter ſhou<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d know what we've done,</l>
+                  <l>We both ſhou'd be blown up as ſure as a Gun:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>for after our joy, he would make us as ſad,</hi>
+                     </l>
+                     <l>
+                        <hi>for taking it where it ought not to be had.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But how ſhou'd he know it thou ſcrup<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lous Elf,</l>
+                  <l>Do'ſt think i'me ſo ſilly to tell him my ſelf?</l>
+                  <l>If we are but ſo wiſe our own counſel to keep,</l>
+                  <l>We may laugh and lye down while the ſot is aſleep:</l>
+                  <l>Some hundreds I know in the city that uſe,</l>
+                  <l>To give to their men what their maſters refuſe:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>The man is the maſter, the Prentice the Dad,</hi>
+                     </l>
+                     <l>
+                        <hi>for women muſt take it where 'tis to be had.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Some Prentices uſe it, forſooth, I allow,</l>
+                  <l>But I am a Novice and cannot tell how:</l>
+                  <l>However, I hope that I ſhall not be blam'd,</l>
+                  <l>For to tell you the truth I am ſomewhat aſham'd;</l>
+                  <l>I know how to carry your bible to Church,</l>
+                  <l>but to play with my miſtris i'm left in the lurch:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Yet if you'can ſhew me the way good or bad,</hi>
+                     </l>
+                     <l>
+                        <hi>Ile promiſe you a<gap reason="illegible: missing" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> that there is to be had.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>You quickly may learn it, 'my <hi>Johnny,</hi> for.....<hi>Thus,</hi>
+                  </l>
+                  <l>Before you proceed we begin with a buſs;</l>
+                  <l>And then you muſt claſp me about with your arm,</l>
+                  <l>Nay, fear me not <hi>Johnny</hi> i'le do thee no harm:</l>
+                  <l>Now I ſigh, now I tremble, now backwards I lye,</l>
+                  <l>And now my dear <hi>Johnny,</hi> ah now I muſt dye:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Oh! who can refiſt ſuch a mettle-ſome Lad,</hi>
+                     </l>
+                     <l>
+                        <hi>and refuſe ſuch a pleaſure when 'tis to be had,</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Alas, pritty miſtris the pleaſure is ſuch,</l>
+                  <l>We never can give one another too much:</l>
+                  <l>If this be the buſineſs, the way is ſo plain</l>
+                  <l>I think I can eaſily find it again:</l>
+                  <l>I was <hi>Thus</hi> we began; and....<hi>Thus</hi> we lye down;</l>
+                  <l>And <hi>Thus..</hi>..Oh <hi>thus!</hi> that we fell in a <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>woon:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>ſuch ſport to refuſe who was ever ſ<gap reason="illegible: missing" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> mad</hi>
+                     </l>
+                     <l>
+                        <hi>ile take it where ever it is to be had.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Now <hi>Johnny</hi> you talk like an ignorant mom<gap reason="illegible: damage" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>You can have ſuch p<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eaſure no where but at <gap reason="illegible: damage" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ome</l>
+                  <l>Here<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s fifty broad pieces for what you have done,</l>
+                  <l>But ſee that you never a gadding do run;</l>
+                  <l>For no new employment then trouble your brains,</l>
+                  <l>For here when you work you'l be paid for your pains</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>but ſhou'd you deceive me no womans ſo ſad,</hi>
+                     </l>
+                     <l>
+                        <hi>to loſe all the pleaſure that once ſhe has had.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>A miſtris ſo noble I never will leave,</l>
+                  <l>Twere a ſin and a ſhame ſuch a friend to deceive;</l>
+                  <l>For my maſters ſhop no more will I care,</l>
+                  <l>Tis pleaſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nter handling my miſtreſſes ware:</l>
+                  <l>A fig for indentures for now I am made</l>
+                  <l>Free of a Gentiler and pleaſanter trade;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>I know when i'me well, I was never ſo mad</hi>
+                     </l>
+                     <l>
+                        <hi>to for ſake a good th<gap reason="illegible: missing" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ng when 'tis to be had.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby,</hi> at the <hi>Golden</hi>-ball, in <hi>Weſt-ſmithfield,</hi> neer the Hoſpital-gate.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
